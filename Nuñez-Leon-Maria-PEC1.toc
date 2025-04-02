@@ -1,0 +1,7 @@
+\contentsline {subsection}{RESUMEN}{1}{section*.2}%
+\contentsline {subsection}{OBJETIVOS Y JUSTIFICACIÓN}{1}{section*.3}%
+\contentsline {subsection}{MÉTODOS}{2}{section*.4}%
+\contentsline {subsection}{RESULTADOS}{2}{section*.5}%
+\contentsline {subsection}{DISCUSIÓN}{10}{section*.6}%
+\contentsline {subsection}{CONCLUSIONES}{10}{section*.7}%
+\contentsline {subsection}{REFERENCIAS}{10}{section*.8}%
