@@ -349,3 +349,5 @@ El análisis de conglomerados revela dos grupos claramente definidos:
 Parece existir un efecto diferenciador en el metabolismo tras el consumo de procinidinas. Sin embargo, aunque el análisis de conglomerados ha permitido identificar posibles patrones de agrupación, es necesario un estudio más profundo para determinar su relevancia biológica. 
 
 ## REFERENCIAS
+
+https://github.com/Marnunleo/Nu-ez-Leon-Maria-PEC1.git
